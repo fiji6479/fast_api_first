@@ -47,7 +47,7 @@ sqlalchemy-utils==0.38.2
 starlette==0.19.1
 typing-extensions==4.3.0
 uvicorn[standard]==0.18.2
-uvloop==0.16.0  
+uvloop==0.18.0  
 watchfiles==0.15.0
 websockets==10.3
 wrapt==1.14.1

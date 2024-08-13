@@ -1,4 +1,6 @@
 -i https://pypi.org/simple
+python==3.7
+
 aioredis==2.0.1
 aiosmtplib==1.1.6
 aiosqlite==0.17.0

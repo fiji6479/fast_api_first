@@ -19,10 +19,10 @@ fakeredis==1.8.1
 fastapi==0.78.0
 fastapi-mail==1.0.9
 fastapi-utils==0.2.1
-greenlet==1.1.2
+greenlet==1.1.2 --only-binary :all:
 h11==0.12.0
 httpcore==0.15.0
-httptools==0.1.1
+httptools==0.1.1 --only-binary :all:
 httpx==0.23.0
 idna==3.3
 itsdangerous==2.1.2
@@ -47,7 +47,7 @@ sqlalchemy-utils==0.38.2
 starlette==0.19.1
 typing-extensions==4.3.0
 uvicorn[standard]==0.18.2
-uvloop==0.14.0
+uvloop==0.14.0 --only-binary :all:
 watchfiles==0.15.0
 websockets==10.3
 wrapt==1.14.1

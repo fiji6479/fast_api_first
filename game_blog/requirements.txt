@@ -35,4 +35,4 @@ passlib==1.7.4
 pydantic[email]==1.9.1
 python-multipart==0.0.5
 
-gunicorn
+

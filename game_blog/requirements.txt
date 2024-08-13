@@ -31,9 +31,13 @@ uvicorn[standard]==0.17.6
 watchgod==0.8.2
 websockets==10.3
 
+
+
 passlib==1.7.4
 pydantic[email]==1.9.1
 python-multipart==0.0.5
+
+fastapi-mail==1.2.2
 
 
 gunicorn

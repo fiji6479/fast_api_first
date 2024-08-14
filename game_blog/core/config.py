@@ -27,10 +27,10 @@ MAIL_FROM="Fiji6479@yandex.ru",
 MAIL_PORT=465,
 MAIL_SERVER="smtp.yandex.ru",
 MAIL_FROM_NAME="Test Messages",
+MAIL_TLS=False,
+MAIL_SSL=True,
 USE_CREDENTIALS=True,
-VALIDATE_CERTS=True,
-MAIL_STARTTLS=False,
-MAIL_SSL_TLS=True
+VALIDATE_CERTS=True
 )
 
 

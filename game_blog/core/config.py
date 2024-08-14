@@ -22,7 +22,7 @@ TemplateResponse = templates.TemplateResponse
 
 mail_conf = ConnectionConfig(
 MAIL_USERNAME="Fiji6479",
-MAIL_PASSWORD="mncnryseooygsgzq",
+MAIL_PASSWORD="***********",
 MAIL_FROM="Fiji6479@yandex.ru",
 MAIL_PORT=465,
 MAIL_SERVER="smtp.yandex.ru",
